@@ -21,11 +21,14 @@ Rotating RGB image without imrotate.
 
 
 ## Homework2
-### Question1
+### Question2
 Describing the image with the worst MSE value compared to the original image.
 
-### Question2
+### Question3
 Describing a grayscale image that has the best PSNR value compared to the original RGB image.
 
-### Question3
-Implementation of Bilinear and Nearest Neighbor algorithm to resize image.
+### Question4
+Implementation of **Bilinear** and **Nearest Neighbor** algorithm to resize image.
+
+### Question5
+Implementation of Directional Cubic Convolution Interpolation(DCCI) algorithm to resize image. See [this link](https://en.wikipedia.org/wiki/Directional_Cubic_Convolution_Interpolation) for more information.
