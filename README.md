@@ -21,3 +21,11 @@ Rotating RGB image without imrotate.
 
 
 ## Homework2
+### Question1
+Describing the image with the worst MSE value compared to the original image.
+
+### Question2
+Describing a grayscale image that has the best PSNR value compared to the original RGB image.
+
+### Question3
+Implementation of Bilinear and Nearest Neighbor algorithm to resize image.
