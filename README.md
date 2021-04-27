@@ -12,7 +12,7 @@ This repository contains my answers to the assignments of the Basics of Computer
 # HW2
 * Implementation of Nearest Neighbor algorithm.
 * Implementation of Bilinear algorithm.
-* Implementation of DCCI algorithm.
+* Implementation of [Directional Cubic Convolution Interpolation(DCCI)](https://www.researchgate.net/publication/259827607_Image_zooming_using_directional_cubic_convolution_interpolation) algorithm.
 
 
 # HW3
