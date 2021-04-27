@@ -10,7 +10,9 @@ This repository contains my answers to the assignments of the Basics of Computer
 <img src="https://github.com/farkoo/CV-with-Matlab/blob/master/HW1/rot.png">
 
 # HW2
-
+* Implementation of Nearest Neighbor algorithm.
+* Implementation of Bilinear algorithm.
+* Implementation of DCCI algorithm.
 
 
 # HW3
