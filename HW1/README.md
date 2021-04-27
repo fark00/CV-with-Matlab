@@ -1,13 +1,10 @@
 # Computer Vision With Matlab
 
-# Qst_1
-
+## Qustion1 output
 <img src="https://github.com/farkoo/CV-with-Matlab/blob/master/HW1/q1.png">
 
-# Qst_1
-### Draw a red circule 
+## Qustion2 output
 <img src="https://github.com/farkoo/CV-with-Matlab/blob/master/HW1/q2.png">
 
-# Qst_3
-### Rotate RGB image without imrotate
+## Qustion3 output
 <img src="https://github.com/farkoo/CV-with-Matlab/blob/master/HW1/q3.png">
