@@ -14,3 +14,22 @@ This repository contains my answers to the assignments of the Basics of Computer
 
 
 # HW3
+
+
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/fark00/farkoo-Simulator/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/fark00)
+
